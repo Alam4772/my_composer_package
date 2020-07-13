@@ -1,0 +1,15 @@
+{
+    "name": "alaminamdar/my-composer-package",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Alam Inamdar",
+        "email": "alaminamdar0@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "alaminamdar\\HelloWorld\\": "src/" }
+    },
+    "require": {}
+}
