@@ -7,7 +7,7 @@
         "name": "Alam Inamdar",
         "email": "alaminamdar0@gmail.com"
     }],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": { "alaminamdar\\HelloWorld\\": "src/" }
     },
